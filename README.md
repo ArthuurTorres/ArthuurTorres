@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-  Atualmente cursando Sistemas de Informação (UNESA), trabalhando em projetos pessoais com foco em me tornar desenvolvedor front-end.
+  Atualmente cursando Sistemas de Informação(UNESA), trabalhando em projetos pessoais com foco em me tornar desenvolvedor front-end.
 </samp>
 <samp>
   
