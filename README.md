@@ -34,10 +34,10 @@
 
 ##
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=gruvbox&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=merko&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-gui&theme=gruvbox&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-gui&theme=merko&show_icons=true" />
 
 </p>
 
-![Snake animation](https://github.com/ArthuurTorres/ArthuurTorres)
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
