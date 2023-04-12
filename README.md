@@ -1,17 +1,13 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Guilherme i'm brazilian!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Oi, me chamo Arthur.
 
 <p align="center" >
   <samp>
-   I have studied and worked with programming for more than 4 years, at the Universidade Federal do Espírito santo (UFES), in the Computer Engineering course and too in personal projects. I have programmed in several languages, but currently I have focused on web development and RESTful API.
+  Atualmente cursando sistema de informação(UNESA), trabalhando em projetos pessoais com foco em me tornar desenvolvedor front-end.
+</samp>
+<samp>
+  
 </samp>
 <br/><br/>
-<samp>
-I am currently a backend intern at <a target="_blank" rel="noopener noreferrer" href="https://uppersoft.com.br/">Uppersoft</a> and actively participate in the development of real projects.
-</samp>
-<br/><br/>
-<samp>
-In addition, I produce content related to technology and make it available on my YouTube channel: Programador Alternativo.
-  </samp>
   <br/>
   <br/>
 </p>
@@ -36,6 +32,7 @@ In addition, I produce content related to technology and make it available on my
   
 <br/><br/>
 
+##
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=gruvbox&show_icons=true" />
 
