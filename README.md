@@ -34,9 +34,9 @@
 
 ##
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=merko&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=arthuurtorres&theme=merko&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-gui&theme=merko&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuurtorres&theme=merko&show_icons=true" />
 
 </p>
 
